@@ -1,0 +1,7 @@
+Branch  
+  No git temos  a possibilidade de criar várias branch.
+  Branch é uma árvore de arquivos, sendo a branch master a principal do repositório
+  Branch são utilizadas quando temos muitos colaborados na mesma aplicação, sendo assim algumas vezes se faz necessário a criação de branch secúndarias para podermos trabalhar em outras coisas, ou até mesmo criar diferentes versões do código principal.
+  Para criar uma branch é necessário eu ja ter feito meu 1° commit, pois só após isso é criado a branch master.
+  Após isso podemos dar um (git branch (Nome da branch)) -> Criamos a branch, mas ainda estamos na branch principal.
+  Agora para trocarmos de branch é necessário a gente dar (git checkout (Nome da branch)) Agora sim estamos trabalhando na branch secúndaria. Agora podemos realizar alterações sem que afete o codigo principal. Ou também para criarmos e já trocarmos de branch, poderiamos utilizar o (git checkout -b (NOme da branch)), asism já criariamos uma nova branch e trocariamos para ela
