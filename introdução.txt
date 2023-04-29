@@ -1,0 +1,1 @@
+Git e github -> É uma sistema que serve de monitoramento de arquivos e compartilhamento de arquivos. Sendo o git o sistema que você adiciona os arquivos dentro do sistema, e o github, é a parte web aonde armazena os arquivos. 
