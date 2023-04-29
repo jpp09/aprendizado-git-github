@@ -1,0 +1,15 @@
+Como principais comandos/mais utilizados:
+git add . - adiciona todos os contéudos que foram modificados no stage
+git commit -m'' - Manda as modificações atualizadas para o git
+git checkout 'branch'- Muda de uma branch para outra
+git branch - mOstra emq ual branch você está
+git status - Mostra o status dos seus arquivos
+git remote -v - Mosra em qual rmeote o seu git está configurado para subir os arquivos
+git push -u origin master(ou outra branch) - Empurra s arquivos atualizados para o github/ Caso seja o priemiro push, é necessário usar o git push origin master.
+git log - Vcê pode ver quais foram as utimas atualizações e também quais foram os comentários dos commit
+git diff - Mostra as diferenças dos arquivos
+Também temos alguns comando que são core para o cmd, como:
+cd - abre um file
+cd .. - sai de um file
+ls - Mostra os arquivos presentes no file
+pwd - Mostra em qual área você está do seus arquivos
