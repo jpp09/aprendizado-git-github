@@ -1,0 +1,1 @@
+Projeto aprendendo git e github, para me trnar um progamdor fullstack
