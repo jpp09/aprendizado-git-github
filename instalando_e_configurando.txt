@@ -1,0 +1,2 @@
+Para baixarmos o git basta entramos no site do git, e baixarmos, após isso iremos baixar e instalar  ele no nosso computador.
+Após isso teremos que entrar no cmd, para inicializar ele em alguma pasta, mas antes pode utilizar o comando git --global user.name: (Colocar o seu nome apra salvar o nome da pessoa que irá aparecer nos commit's) e o git --global user.email: ( Email que aparece-rá quando os commit's forem realzados.)
